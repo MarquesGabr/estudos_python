@@ -6,3 +6,4 @@ Conteúdo abordado:
 * Interpolação
 * Fatiamento
 * Tupla
+* Desafio -> Funções
