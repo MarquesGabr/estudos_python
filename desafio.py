@@ -1,5 +1,5 @@
 # Faça uma função contadora de vogais
-def contar_vogais(texto):
+def contar2_vogais(texto):
 
     vogais = "aeiouAEIOU"
 
