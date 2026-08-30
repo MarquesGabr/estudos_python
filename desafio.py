@@ -1,5 +1,9 @@
 # Faça uma função contadora de vogais
-def contar1_vogais(texto):
+<<<<<<< HEAD
+def contar_vogais(texto):
+=======
+def contar_vogais(texto):
+>>>>>>> 772683f869333f54861a0277289f22155d5477ca
 
     vogais = "aeiouAEIOU"
 
